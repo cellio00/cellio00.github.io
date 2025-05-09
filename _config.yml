@@ -8,6 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+remote_theme:		 : mmistakes/minimal-mistakes@4.24.0
+plugins:
+ - jekyll-include-cache
+markdown:		 : kramdown
 site_theme               : "default"
 title                    : "Carrie Elliott, Physics and Astronomy PhD Student"
 title_separator          : "-"

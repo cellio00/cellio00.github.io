@@ -22,7 +22,7 @@ repository               : "cellio00/cellio00.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SelfiePhoto.png"
+  avatar           : "SelfiePhoto.jpeg"
   name             : "Carrie"
   pronouns         : "she/her"   
   bio              : "Computational and Theoretical Astro Graduate Researcher"

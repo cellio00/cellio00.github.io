@@ -26,7 +26,8 @@ author:
   avatar           : "SelfiePhoto.jpeg"
   name             : "Carrie"
   pronouns         : "she/her"   
-  bio              : "Computational Theory, Astrophysics grad student. My research interests include computational astro, nuclear astro, and particle physics."
+  bio              : "Computational Theory, Astrophysics grad student.
+ My research interests include computational astro, nuclear astro, and particle physics."
   location         : "Earth"
   employer         : "University of Tennessee"		      
   uri              : # URL

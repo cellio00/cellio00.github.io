@@ -275,15 +275,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _outreach
-  - scope:
-     path: ""
-     type: outreach
-     values:
-      layout: single
-      author_profile: true
-      comment: true
-      share: true
   # _talks
   - scope:
       path: ""

@@ -1,5 +1,6 @@
 --
 layout: home
+title: "Carrie Elliott"
 author_profile = true
 --
 

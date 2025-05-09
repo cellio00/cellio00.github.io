@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# Carrie Elliott
 
-Knoxville, TN 37918  
-(865)-209-6837  
+Knoxville, TN  
 [Email](mailto:cellio18@vols.utk.edu)  
 [LinkedIn](https://tinyurl.com/5n93desd)
 
@@ -81,13 +79,3 @@ Concentration: Computational Physics
 - Graded AST 151/152, maintained telescopes and CCDs
 
 ---
-
-## Presentations and Posters
-
-- “From Physics to Operations: ML-Driven Beam Loss Optimization,” MaLAPA, Gyeong-ju, South Korea (Mar. 2024)  
-- “Automated Beam Loss Tuning in a High-Power Accelerator,” WAO, Tsukuba, Japan (Sept. 2023)  
-- “Visualizing Nucleosynthesis in 2D,” UTK Women in STEM Symposium (Mar. 2016)  
-- Same poster, SESAPS, Mobile, AL (Nov. 2015)
-
----
-

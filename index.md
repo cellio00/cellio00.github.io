@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Carrie Elliott"
 author_profile: true
 ---
@@ -11,9 +11,11 @@ My background is multifaceted;  I have experience in -
 - nuclear physics
 - computational astrophysics
 
-My path into physics has taken a few turns, from studying the EMC effect at Jefferson Lab, to working on machine learning for high-power proton accelerators at Oak Ridge National Lab, and now into the frontier of computational astrophysics, where I first fell in love. 
+My path in physics has taken a few turns...
+from *studying the EMC effect at Jefferson Lab*, to *developing machine learning tools for a high-power hadron  accelerator*, then into *the frontier of computational astrophysics*, where I first fell in love. 
 
-I'm particularly interested in how **neutrinos** — elusive, nearly massless particles — influence the dynamics and observable signatures of energetic astrophysical environments like **core-collapse supernovae** and **neutron star mergers**. My current research focuses on understanding the impact of ** neutrino radiation transport methods** on these extreme systems, blending theoretical physics with high-performance computing.
+I'm particularly interested in how **neutrinos** — elusive, nearly massless particles — influence the dynamics and observable signatures of energetic astrophysical environments like **core-collapse supernovae** and **neutron star mergers**.
+My current research focuses on understanding the impact of ** neutrino radiation transport methods** on these extreme systems, blending theoretical physics with high-performance computing.
 
 More broadly, I'm driven by questions at the intersection of physics, computation, and maybe a bit of philosophy: 
 - How does fundamental particle behavior shape the evolution of the universe, specifically through these cosmic events?  
@@ -25,3 +27,4 @@ I enjoy contributing to outreach efforts that bring physics and coding into clas
 
 Thanks for stopping by — feel free to check out my [CV](/cv/) or [publications](/publications/), and reach out if you'd like to collaborate or just talk science.
 
+--- 

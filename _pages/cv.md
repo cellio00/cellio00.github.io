@@ -40,6 +40,12 @@ Concentration: Computational Physics
 **Preferred Language:** Python or C
 
 ---
+## Awards
+
+- Awarded Department of Energy Computational Sciences Graduate Fellowship (2025) (unable to accept, but was awarded)
+- Awarded Honorable Mention, National Science Foundation, Graduate Research Fellowship Program (2025)  
+
+---
 
 ## Work Experience
 

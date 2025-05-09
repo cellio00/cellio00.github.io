@@ -6,15 +6,14 @@ collection: outreach
 
 **Diversity, Equity, and Inclusion Project Lead**
 
-- *Fall 2022 - Fall 2024*
-- Women in Neutron Sciences, Neutron Sciences Directorate, Oak Ridge National Lab
+- *Fall 2022 - Fall 2024, Women in Neutron Sciences (WiNS) at Oak Ridge National Lab (ORNL)
 - Position held: Committee Chair
 - Use climate surveys, triennial review data to motivate institutional changes.
 - Lead and support initiatives relating to improving equitable culture within NScD. Collaborate with other project leads on recruitment issues and outreach.
 		                 
-**Learning and Development Project Lead **
+**Learning and Development Project Lead**
 
-- *Fall 2021 - Fall 2022, Women in Neutron Sciences, Neutron Sciences Directorate, Oak Ridge National Lab*
+- *Fall 2021 - Fall 2022, WiNS at ORNL*
 - Position held: Committee Chair
 - Responsible for organizing events to encourage curiosity and discussion on various topics through presentations for employees across the directorate.
                 

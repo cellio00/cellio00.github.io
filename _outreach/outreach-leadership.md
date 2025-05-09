@@ -3,7 +3,7 @@ title: "Leadership Activities"
 collection: outreach
 ---
 
-#Leadership Activities#
+## Leadership Activities
 
 **Diversity, Equity, and Inclusion Project Lead**
 

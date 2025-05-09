@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Carrie Elliott, Physics and Astronomy PhD Student"
+title                    : "Carrie Elliott, Physics &  Astronomy PhD Student"
 title_separator          : "-"
 name                     : &name "Carrie Elliott"
 description              : &description "Hi! I am Carrie, a first-year physics PhD student at The University of Tennessee, Knoxville. My research interests interests include computational astrophysics, particle physics, and nuclear astro; in addition, I have some particle accelerator experience sprinkled in as well. Both theory and experiment must be furthered, and in the modern age, consilience of experts from many fields has become critical. As such I love to collaborate and connect."
@@ -22,14 +22,15 @@ repository               : "cellio00/cellio00.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "SelfiePhoto.png"
   name             : "Carrie"
   pronouns         : "she/her"   
   bio              : "Computational and Theoretical Astro Graduate Researcher"
   location         : "Earth"
-  employer         : "University of Tennessee, Knoxville | Oak Ridge National Laboratory"
+  employer         : "University of Tennessee
+		      Oak Ridge National Lab"
   uri              : # URL
-  email            : "cellio18 @ tennessee.edu" 
+  email            : "cellio18@tennessee.edu" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/carrie-elliott-30a550189/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

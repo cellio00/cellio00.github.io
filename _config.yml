@@ -8,9 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "sunrise"
 title                    : "Carrie Elliott, PhD Student"
-minimal_mistakes_skin    : "sunrise"
 title_separator          : "-"
 name                     : &name "Carrie Elliott"
 description              : &description "Hi! I am Carrie, a physics PhD student. "

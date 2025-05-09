@@ -7,21 +7,21 @@ collection: outreach
 
 **Diversity, Equity, and Inclusion Project Lead**
 
-- *Fall 2022 - Fall 2024, Women in Neutron Sciences (WiNS) at Oak Ridge National Lab (ORNL)
+*Fall 2022 - Fall 2024, Women in Neutron Sciences (WiNS) at Oak Ridge National Lab (ORNL)*
 - Position held: Committee Chair
 - Use climate surveys, triennial review data to motivate institutional changes.
 - Lead and support initiatives relating to improving equitable culture within NScD. Collaborate with other project leads on recruitment issues and outreach.
 		                 
 **Learning and Development Project Lead**
 
-- *Fall 2021 - Fall 2022, WiNS at ORNL*
+*Fall 2021 - Fall 2022, WiNS at ORNL*
 - Position held: Committee Chair
 - Responsible for organizing events to encourage curiosity and discussion on various topics through presentations for employees across the directorate.
                 
                 
 **Physics Journal Club**
 
-- *Fall 2016 - Fall 2017, University of Tennessee*
+*Fall 2016 - Fall 2017, University of Tennessee*
 - Position held: Co-Director
 - Founding member. Discuss academic papers with other undergraduates weekly.
               
@@ -35,9 +35,9 @@ collection: outreach
 
 **Society of Physics Students Member** 
 
-- *Fall 2014 - Fall 2017, University of Tennessee*
-Participated in weekly meetings, workshops, and trips to conferences.
-Volunteered in public demonstrations and outreach to local schools.
+*Fall 2014 - Fall 2017, University of Tennessee*
+- Participated in weekly meetings, workshops, and trips to conferences.
+- Volunteered in public demonstrations and outreach to local schools.
                 
                  
 **Flow Club President** 

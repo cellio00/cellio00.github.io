@@ -3,7 +3,6 @@ title: "Community Involvement"
 collection: outreach
 ---
 
-
 ## Community Involvement
 
 **Women in Physics Mentoring Matrix** - UTK (Spring 2025)

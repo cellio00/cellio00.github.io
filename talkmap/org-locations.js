@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "From Physics to Operations: Progress for Deployment of ML-Driven Beam Loss During Production.<br />ICFA Machine Learning Applications for Particle Accelerators (MaLAPA); Gyeong-ju, Gyeongsang Province, South Korea",
+    35.6906845,
+    127.9070112
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Visualizing Nucleosynthesis in Core-Collapse Supernovae in 2-Dimensions.<br />Southeastern Section of the American Physical Society; Mobile, AL, USA",
+    30.6913462,
+    -88.0437509
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Developing an Automated Beam Loss Tuning Application in a High-Power Production Accelerator.<br />Workshop on Accelerator Operations (WAO); Tsukuba, Ibaraki, Japan",
+    36.0833265,
+    140.077279
   ]
 ];

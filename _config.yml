@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "SelfiePhoto.jpeg"
   name             : "Carrie"
-  pronouns         : "she/her"   
-  bio              : "Graduate student driven to solve interesting and relevant problems in computational astrophysics."
-  location         : "Earth"
-  employer         : "University of Tennessee"		      
+  pronouns         : "she/her/hers"   
+  bio              : "I am a PhD student hungry to solve the difficult, highly-motivated problems in computational astrophysics."
+  location         : "Planet Earth"
+  employer         : "University of Tennessee, Knoxville"		      
   uri              : # URL
   email            : "cellio18@tennessee.edu" 
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin           : "www.linkedin.com/in/carrie-elliott-30a550189"
+  linkedin           : "carrie-elliott-30a550189/"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

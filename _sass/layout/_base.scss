@@ -8,6 +8,11 @@ html {
 }
 
 body {
+  /* sticky footer fix: without this, body's own background (the
+     starfield image) doesn't reach the bottom of short pages, and
+     html's plain background-color shows through below the content */
+  min-height: 100%;
+
   /* Set via _themes.scss */
   color: var(--global-text-color);
   background-color: var(--global-bg-color);

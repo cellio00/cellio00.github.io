@@ -25,6 +25,7 @@
 
   .page__inner-wrap {
     @include full();
+    box-sizing: border-box;
     background: var(--global-panel-bg-color);
     border: 1px solid var(--global-panel-border-color);
     border-radius: $border-radius * 2;

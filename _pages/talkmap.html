@@ -6,4 +6,14 @@ author_profile: true
 ---
 
 <p>This is a geospatial represntation of the talks I have given, courtesy of the academicpages github that wrote these files for this cool purpose.<br> Locations are mined from the "Talks" portion of this page..</p>
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+<iframe id="talkmap-frame" src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+<script>
+  document.getElementById('talkmap-frame').addEventListener('load', function () {
+    try {
+      var doc = this.contentDocument;
+      var style = doc.createElement('style');
+      style.textContent = 'body { background: #14151a; color: #e5e5e5; } span, a { color: #e5e5e5; }';
+      doc.head.appendChild(style);
+    } catch (e) {}
+  });
+</script>

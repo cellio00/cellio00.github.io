@@ -10,8 +10,11 @@ html {
 body {
   /* sticky footer fix: without this, body's own background (the
      starfield image) doesn't reach the bottom of short pages, and
-     html's plain background-color shows through below the content */
-  min-height: 100%;
+     html's plain background-color shows through below the content.
+     vh (not %) because html only sets min-height, not height, so a
+     percentage here has no definite containing-block height to
+     resolve against and is ignored. */
+  min-height: 100vh;
 
   /* Set via _themes.scss */
   color: var(--global-text-color);

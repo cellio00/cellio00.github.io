@@ -4,6 +4,7 @@ collection: outreach
 ---
 
 ## Community Involvement
+
 **Gradudate Student Senator, Physics & Astronomy Dept. ** -  UTK (2025 - present) 
 
 **Women in Physics Mentoring Matrix** - UTK (Spring 2025)

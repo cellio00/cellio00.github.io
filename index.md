@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Carrie Elliott"
+title: "About Me"
 author_profile: true
 ---
 
 ##  Hi, I'm Carrie Elliott, Ph.D. candidate at the University of Tennessee, Knoxville. ##
 
-** My Goal: ** To apply my computational skills, theoretical curiosity, love of GR and particle physics into a combination for long-term contribution to the world of astrophysics that still lives in simulations. 
+**My Goal is to apply my computational skills, theoretical curiosity**, love of GR and particle physics **to contribute** to the world of astrophysics **tools that have integrity and accuracy, rigorous from test to deployment**. 
 
 Some of the top problems I am interested in: 
 - how the geometric nature of the fast neutrino flavor instability interacts with other extreme physics, 

@@ -4,7 +4,9 @@
 
 .page__footer {
   @include clearfix;
-  background-color: var(--global-footer-bg-color);
+  background-color: var(--global-panel-bg-color);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
   color: var(--global-text-color-light);
 
   float: left;

@@ -12,6 +12,13 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  background: var(--global-panel-bg-color);
+  border: 1px solid var(--global-panel-border-color);
+  border-radius: $border-radius * 2;
+  padding: 1em;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
 
   @media (orientation: portrait) {
     margin-top: 1em;

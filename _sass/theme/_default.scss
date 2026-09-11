@@ -44,4 +44,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
+    --global-panel-bg-color             : rgba(255, 255, 255, 0.86);
+    --global-panel-border-color         : rgba(255, 255, 255, 0.65);
+    --global-bg-scrim-color             : rgba(255, 255, 255, 0.4);
 }

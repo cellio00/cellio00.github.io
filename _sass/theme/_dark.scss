@@ -51,4 +51,7 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
+    --global-panel-bg-color             : rgba(20, 21, 26, 0.8);
+    --global-panel-border-color         : rgba(255, 255, 255, 0.1);
+    --global-bg-scrim-color             : rgba(8, 8, 12, 0.6);
 }

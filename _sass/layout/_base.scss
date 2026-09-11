@@ -5,31 +5,26 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-}
 
-/* Fixed background layer, pinned directly to the viewport (not to
-   body's own content-driven height) so it always covers the full
-   screen on short pages regardless of document height. body's own
-   background-attachment: fixed doesn't work for this: it's sized to
-   body's box, which on a short page ends well above the viewport
-   bottom, leaving html's plain background-color showing below it. */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: -1;
+  /* The root element's background paints the whole canvas (the full
+     scrollable viewport area), regardless of html's own box height —
+     unlike body's background, which is limited to body's own
+     content-driven box and leaves a gap on short pages. body's own
+     background-color is left transparent (below) so this shows
+     through everywhere, not just past body's bottom edge. */
   background-image:
     linear-gradient(var(--global-bg-scrim-color), var(--global-bg-scrim-color)),
     url("#{$global-bg-image-url}");
   background-size: cover, cover;
   background-position: center, center;
   background-repeat: no-repeat, no-repeat;
+  background-attachment: fixed, fixed;
 }
 
 body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
+  background-color: transparent;
 
   margin: 0;
   padding: $masthead-height 0 0;

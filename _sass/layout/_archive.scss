@@ -26,15 +26,6 @@
     @include prefix(2 of 12);
   }
 
-  // Mirrors .page's fixed-width override (_page.scss): once the sidebar is
-  // position: fixed, its width is a percentage of the viewport, not of
-  // #main, so the percentage-based prefix above drifts out of sync with it
-  // as the viewport grows. Pin this side to the same fixed px value (plus
-  // a gutter) so the two always line up exactly.
-  @media screen and (min-width: $sidebar-screen-min-width) {
-    padding-left: calc(#{$sidebar-link-max-width} + 1.5em);
-  }
-
   a {
     text-decoration: underline;
 

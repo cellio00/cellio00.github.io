@@ -26,10 +26,10 @@
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
+    max-height: calc(100vh - #{$masthead-height});
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
-    position: fixed;
-    padding-top: $masthead-height;
+    position: sticky;
+    top: $masthead-height;
   }
 
   @include breakpoint($large) {
@@ -46,15 +46,6 @@
   @include breakpoint($x-large) {
     max-width: $sidebar-link-max-width;
     padding-right: 0;
-  }
-
-  // Once position: fixed kicks in (above), a percentage width resolves
-  // against the viewport instead of #main's container — so it drifts out
-  // of sync with .page's padding-left (a percentage of #main) as the
-  // viewport grows. Pin both sides to the same fixed px value instead.
-  // Must come after the breakpoint($large) span() above to win the cascade.
-  @media screen and (min-width: $sidebar-screen-min-width) {
-    width: $sidebar-link-max-width;
   }
 
   h2, h3, h4, h5, h6 {

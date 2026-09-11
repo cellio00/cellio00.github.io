@@ -18,8 +18,21 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    // Same border-box/prefix interaction as .page (_page.scss): prefix()
+    // compiles to padding-left, which border-box carves out of this
+    // element's own span rather than adding outside it — so span must
+    // cover the full 12 columns and let the 2-column prefix eat into it.
+    @include span(12 of 12 last);
+    @include prefix(2 of 12);
+  }
+
+  // Mirrors .page's fixed-width override (_page.scss): once the sidebar is
+  // position: fixed, its width is a percentage of the viewport, not of
+  // #main, so the percentage-based prefix above drifts out of sync with it
+  // as the viewport grows. Pin this side to the same fixed px value (plus
+  // a gutter) so the two always line up exactly.
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    padding-left: calc(#{$sidebar-link-max-width} + 1.5em);
   }
 
   a {

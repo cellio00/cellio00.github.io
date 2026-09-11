@@ -8,6 +8,8 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+$global-bg-image-url: "{{ '/images/ngc1672-background.jpg' | relative_url }}";
+
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -41,7 +43,3 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-
-:root {
-  --global-bg-image: url("{{ '/images/ngc1672-background.jpg' | relative_url }}");
-}

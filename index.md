@@ -4,7 +4,7 @@ title: "Carrie Elliott"
 author_profile: true
 ---
 
-## Hi, I'm **Carrie Elliott** — an astro-physics Ph.D. candidate at the University of Tennessee, Knoxville. ##
+##  Hi, I'm **Carrie Elliott** — an astro-physics Ph.D. candidate at the University of Tennessee, Knoxville. ##
 
 ###My Goal:### To apply my computational skills, theoretical curiosity, love of GR and particle physics into a combination for long-term contribution to the world of astrophysics that still lives in simulations. 
 

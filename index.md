@@ -4,12 +4,12 @@ title: "Carrie Elliott"
 author_profile: true
 ---
 
-##  Hi, I'm **Carrie Elliott** — an astro-physics Ph.D. candidate at the University of Tennessee, Knoxville. ##
+##  Hi, I'm Carrie Elliott — an astro-physics Ph.D. candidate at the University of Tennessee, Knoxville. ##
 
-###My Goal:### To apply my computational skills, theoretical curiosity, love of GR and particle physics into a combination for long-term contribution to the world of astrophysics that still lives in simulations. 
+### My Goal: ### To apply my computational skills, theoretical curiosity, love of GR and particle physics into a combination for long-term contribution to the world of astrophysics that still lives in simulations. 
 
-Problems I am interested in: 
-- how the geoemetric nature of the fast neutrino flavor instability interacts with other extreme physics, 
+Some of the top problems I am interested in: 
+- how the geometric nature of the fast neutrino flavor instability interacts with other extreme physics, 
 - methods to improve neutrino transport in modern-day global simulations, 
 - understanding the relationship between neutrinos and the super-luminous supernovae, CCSNe dynamics, and more.  
 
@@ -25,7 +25,8 @@ My experience is diverse...
 
 My path in physics has taken a few turns... all with the dream to return to astrophysics. 
 
-I an currently a student researcher under [Dr. Sherwood Richers](https://sites.google.com/view/sherwoodrichers/home) focuses on understanding the impact of **neutrino radiation transport methods** on these extreme systems, blending theoretical physics with high-performance computing.
+My research is supervised under [Dr. Sherwood Richers](https://sites.google.com/view/sherwoodrichers/home);
+the greater scope of our group's work focuses on other flavor instabilities, resonance searches, mean-field vs. many body effects, and machine learning techniques applied to long-term flavor transformation in global simulations.
 
 I was awarded the NSF Graduate Research Fellowship in 2025 and will use this award in future years to support this work. 
 

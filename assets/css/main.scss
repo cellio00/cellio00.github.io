@@ -41,3 +41,7 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+:root {
+  --global-bg-image: url("{{ '/images/ngc1672-background.jpg' | relative_url }}");
+}

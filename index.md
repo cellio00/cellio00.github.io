@@ -4,22 +4,32 @@ title: "Carrie Elliott"
 author_profile: true
 ---
 
-## Hi, I'm **Carrie Elliott** — a computational physics Ph.D. candidate at the University of Tennessee, Knoxville. ##
+##  Hi, I'm **Carrie Elliott** — an astro-physics Ph.D. candidate at the University of Tennessee, Knoxville. ##
 
-My background is multifaceted;  I have experience in - 
-- accelerator operations
-- nuclear physics
-- computational astrophysics
+###My Goal:### To apply my computational skills, theoretical curiosity, love of GR and particle physics into a combination for long-term contribution to the world of astrophysics that still lives in simulations. 
 
-My path in physics has taken a few turns...
+Problems I am interested in: 
+- how the geoemetric nature of the fast neutrino flavor instability interacts with other extreme physics, 
+- methods to improve neutrino transport in modern-day global simulations, 
+- understanding the relationship between neutrinos and the super-luminous supernovae, CCSNe dynamics, and more.  
 
-... from studying the fundamental physics of quark distributions at Jefferson Lab, to developing machine learning tools for accelerator operations, back into *the frontier of computational astrophysics*, where I first fell in love. 
+I am also fastinated by other objects like **neutron star mergers, core-collapse supernovae** (the standard types too), and **near SMBH environments**. 
+Extreme gravity environments are fascinating to me; **what would we see in the lab frame?**
+I am very curious about the future of simulation power + detection capabilities using multiple messengers.    
 
-I'm particularly interested in how **neutrinos** — elusive, nearly massless particles — influence the dynamics and observable signatures of energetic astrophysical environments like **core-collapse supernovae** and **neutron star mergers**.
+My experience is diverse...
+- accelerator operations (5 years)
+- nuclear physics (1 year) 
+- teaching (2 years + TA 1 year) 
+- computational astrophysics (combined ~ 3-4 years) 
 
-My current research under [Dr. Sherwood Richers](https://sites.google.com/view/sherwoodrichers/home) focuses on understanding the impact of **neutrino radiation transport methods** on these extreme systems, blending theoretical physics with high-performance computing.
+My path in physics has taken a few turns... all with the dream to return to astrophysics. 
 
-More broadly, I'm driven by questions at the intersection of physics, computation, and maybe a bit of philosophy: 
+I an currently a student researcher under [Dr. Sherwood Richers](https://sites.google.com/view/sherwoodrichers/home) focuses on understanding the impact of **neutrino radiation transport methods** on these extreme systems, blending theoretical physics with high-performance computing.
+
+I was awarded the NSF Graduate Research Fellowship in 2025 and will use this award in future years to support this work. 
+
+In life, and more broadly, I'm driven by questions at the intersection of physics, computation, and maybe a bit of philosophy: 
 - How does fundamental particle behavior shape the evolution of the universe, specifically through these cosmic events?  
 - What role do neutrinos play in the synthesis of heavy elements?  
 - How can modern computational tools push our understanding of the universe forward?

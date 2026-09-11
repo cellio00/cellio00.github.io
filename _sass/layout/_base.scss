@@ -7,25 +7,29 @@ html {
   min-height: 100%;
 }
 
-body {
-  /* sticky footer fix: without this, body's own background (the
-     starfield image) doesn't reach the bottom of short pages, and
-     html's plain background-color shows through below the content.
-     vh (not %) because html only sets min-height, not height, so a
-     percentage here has no definite containing-block height to
-     resolve against and is ignored. */
-  min-height: 100vh;
-
-  /* Set via _themes.scss */
-  color: var(--global-text-color);
-  background-color: var(--global-bg-color);
+/* Fixed background layer, pinned directly to the viewport (not to
+   body's own content-driven height) so it always covers the full
+   screen on short pages regardless of document height. body's own
+   background-attachment: fixed doesn't work for this: it's sized to
+   body's box, which on a short page ends well above the viewport
+   bottom, leaving html's plain background-color showing below it. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
   background-image:
     linear-gradient(var(--global-bg-scrim-color), var(--global-bg-scrim-color)),
     url("#{$global-bg-image-url}");
   background-size: cover, cover;
   background-position: center, center;
   background-repeat: no-repeat, no-repeat;
-  background-attachment: fixed, fixed;
+}
+
+body {
+  /* Set via _themes.scss */
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
 
   margin: 0;
   padding: $masthead-height 0 0;

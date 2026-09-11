@@ -14,12 +14,7 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0em;
-  height: auto;
-  /* sticky footer fix end */
+  flex-shrink: 0;
 
   margin-top: 3em;
 

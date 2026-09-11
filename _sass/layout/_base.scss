@@ -26,9 +26,15 @@ body {
   color: var(--global-text-color);
   background-color: transparent;
 
+  /* sticky footer: #main grows via flex: 1 0 auto (_page.scss) to
+     push .page__footer to the bottom of the viewport on short pages,
+     and just follows normal document flow on tall ones. */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
   margin: 0;
   padding: $masthead-height 0 0;
-  padding-bottom: 9em;
   font-family: $global-font-family;
   line-height: 1.5;
 

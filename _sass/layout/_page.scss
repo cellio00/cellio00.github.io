@@ -24,8 +24,7 @@
     // span rather than added outside it — so span must cover the full
     // 12 columns and let the 2-column prefix eat into it, leaving
     // exactly the 10 columns not already occupied by the sidebar.
-    @include span(12 of 12 last);
-    @include prefix(2 of 12);
+    @include span(10 of 12 last);
   }
 
   .page__inner-wrap {

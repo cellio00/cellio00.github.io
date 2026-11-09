@@ -22,8 +22,7 @@
     // compiles to padding-left, which border-box carves out of this
     // element's own span rather than adding outside it — so span must
     // cover the full 12 columns and let the 2-column prefix eat into it.
-    @include span(12 of 12 last);
-    @include prefix(2 of 12);
+    @include span(10 of 12 last);
   }
 
   a {
